@@ -20,13 +20,7 @@ pygmentsCodefences       = true
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Call me Sam"
 
-[[params.mainMenu]]
-    link = "/posts"
-    text = "posts"
 
-[[params.mainMenu]]
-    link = "/gallery"
-    text = "gallery"
 
 [[params.mainMenu]]
     link = "/portfolio"
