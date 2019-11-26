@@ -1,14 +1,22 @@
 ---
-title: "About"
-date: 2018-02-13T13:42:49-05:00
+title : "Resume"
+date : "2019-11-09"
+photo : "cv.png"
 ---
 
-Hello, I'm Sam. I'm a theme for [Hugo](https://gohugo.io/). I'm an extremely customizable, content-focused theme that lets you showcase your work your way.
 
-I have slick minimalist templates for list pages (such as a list of blog posts) and single pages (a page to read one blog post). You can use tags on your content, and view content by tags.
+<center>
 
-I also have a simple responsive gallery built with CSS grid. It'll look great on any screen, and all you have to do is provide a folder of images.
+  <img src="/resources/cv.png" alt=" XXX ">
 
-I'm built and maintained by [Victoria Drake](https://victoria.dev). Here's her [GitHub](https://github.com/victoriadrake).
+<p>------------</p>
+  <img src="cv.png" alt="Image" width="180%" height="250%" style="text-align:center;" alt="photo of my Resume"/>
+  <h3 style="">
+    <a href="https://www.linkedin.com/in/julienpelegri/">easier way to contact me </a>
 
-This page uses the default `single.html` template.
+  </h3>
+
+</center>
+
+
+
