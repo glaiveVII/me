@@ -9,7 +9,7 @@ date : "2019-11-09"
 
   <div class="image-about">
 
-  <embed src="../Resume.pdf" type="application/pdf" width="100%" height="1000px"/>
+  <embed src="../Resume.pdf" type="application/pdf" width="100%" height="300%"/>
 
   </div>
 

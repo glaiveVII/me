@@ -4,16 +4,6 @@
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
 
-.container-about {
-  display: grid;
-  grid-template-columns: 1fr;
-}
-
-.container-index {
-  display: grid;
-  grid-template-columns: 1fr;
-}
-
 html {
   background-color: #39424E;
   font-family: "Didact Gothic", "sans serif";
