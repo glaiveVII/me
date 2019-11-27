@@ -6,7 +6,7 @@ maxWidth: "600x"
 clickablePhotos: true
 ---
 
-<div>
+<div class="container-index">
 
   <h1 style="text-align: center">
 
