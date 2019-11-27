@@ -16,7 +16,7 @@ pygmentsCodefences       = true
     footerText           = "© 2019 Julien Pelegri MIT"
 
 # Metadata for Open Graph and Twitter
-    description          = "A new Hugo site."               # Max 160 characters show in search results
+    description          = "Julien Pelegri Website"               # Max 160 characters show in search results
     images               = ["julien.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Julien Pelegri"
 
@@ -24,11 +24,11 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "/portfolio"
-    text = "portfolio"
+    text = "Portfolio"
 
 [[params.mainMenu]]
     link = "/about"
-    text = "who is Julien Pelegri?"
+    text = "Who is Julien Pelegri?"
 
 [imaging]
     quality = 75
