@@ -5,7 +5,7 @@ date : "2019-11-09"
 
 <div class="container-about">
 
-  <embed src="../Resume.pdf" type="application/pdf" width="30%" height="80%"/>
+  <embed src="../Resume.pdf" type="application/pdf" width="30%" height="auto"/>
 
 <!--
   <img src="CV_Resume.png"/>
