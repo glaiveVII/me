@@ -30,8 +30,15 @@ date : "2019-11-09"
   </h3>
 
   </div>
-</div>
 
+  <br>
+
+
+  <form style="text-align: center;" method="get" action="../Julien_Pelegri_Resume.pdf">
+     <button type="submit" style="font-size: 20px;">Download My Resume</button>
+  </form>
+
+</div>
 
 
 
