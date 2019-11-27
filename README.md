@@ -1,9 +1,15 @@
 # ME 
 
-# hugo server
-Debug your site on http://localhost:4001. Any file changed will lead to website live update.
+# launch local server
+```
+hugo server
+```
+Debug your site on http://localhost:1313. Any file changed will lead to website live update.
 
-# hugo
+# test to build website in local
+```
+hugo
+```
 Your site files located on public folder.
 
 # cleaning submodules if issues on the way you have imported them :
