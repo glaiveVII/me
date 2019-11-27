@@ -9,7 +9,7 @@ date : "2019-11-09"
 
   <div class="image-about">
 
-  <embed src="../Resume.pdf" type="application/pdf" width="100%" height="500px"/>
+  <embed src="../Julien_Pelegri_Resume.pdf" type="application/pdf" width="100%" height="600px"/>
 
   </div>
 
