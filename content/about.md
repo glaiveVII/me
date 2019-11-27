@@ -35,7 +35,7 @@ date : "2019-11-09"
 
 
   <form style="text-align: center;" method="get" action="../Julien_Pelegri_Resume.pdf">
-     <button type="submit" style="font-size: 20px;">Download My Resume</button>
+     <button type="submit" style="font-size: 20px;" target="_blank">Download My Resume</button>
   </form>
 
 </div>
