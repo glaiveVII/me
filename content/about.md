@@ -25,7 +25,7 @@ date : "2019-11-09"
   <div class="title-about">
 
   <h3 style="text-align: center;">
-    <a href="https://www.linkedin.com/in/julienpelegri/" target="blank">easier way to contact me </a>
+    <a href="https://www.linkedin.com/in/julienpelegri/" target="blank"> easier way to contact me </a>
 
   </h3>
 
