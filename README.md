@@ -1,5 +1,7 @@
 # ME 
 
+# theme : https://github.com/victoriadrake/hugo-theme-sam
+
 # launch local server
 ```
 hugo server
