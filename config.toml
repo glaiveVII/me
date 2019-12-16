@@ -28,7 +28,7 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "/about"
-    text = "Who is Julien Pelegri?"
+    text = "Who am I?"
 
 
 
