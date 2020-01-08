@@ -2,6 +2,10 @@
 
 # theme : https://github.com/victoriadrake/hugo-theme-sam
 
+# idea of cool website 
+- https://www.di.ens.fr/~lelarge/
+- https://www.joshpetty.io/
+
 # launch local server
 ```
 hugo server
